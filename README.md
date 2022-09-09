@@ -40,8 +40,9 @@ Validating and maintaining relayers on Cosmos ecosystem.
 
 Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 
-<br>
+
 ### ⭐️ Hardware:
+
 #### #1 Server:
 Location - OVHCloud, Strasbourg (SBG3) - France
 
