@@ -40,7 +40,57 @@ Validating and maintaining relayers on Cosmos ecosystem.
 <h2 align="center">My current Testnet validators</h2>
 
 Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
-
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>Solana</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                <td width="130px" align="center">
+            <span><strong>Territori</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                    <td width="130px" align="center">
+            <span><strong>Haqq</strong></span><br><br />
+            <a href="https://explorer.nodestake.top/haqq-testedge/staking/haqqvaloper1nqmzss5lywaja29x0alng6n7kyynk8t0h6zw5f" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                        <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Sei</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Starknet</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                <td width="130px" align="center">
+            <span><strong>Massa</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                    <td width="130px" align="center">
+            <span><strong>Ironfish</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+                           <td width="130px" align="center">
+            <span><strong>Aleo</strong></span><br><br />
+            <a href="#" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="#">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h2 align="center">Hardware</h2>
 
