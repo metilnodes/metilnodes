@@ -4,7 +4,8 @@
 <p align="center">Your trusted validator</p>
 
 <br>
-I am an individual validator and blockchain enthusiast.
+
+I am an individual validator, blockchain enthusiast and NFTs collector.
 
 I have more than 2 years of experience in running nodes on various Mainnets and Testnets.
 
@@ -41,7 +42,7 @@ Validating and maintaining relayers on Cosmos ecosystem.
 Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 
 
-### ⭐️ Hardware:
+<h2 align="center">Hardware</h2>
 
 #### #1 Server:
 Location - OVHCloud, Strasbourg (SBG3) - France
@@ -61,7 +62,7 @@ Memory - 6.8 TB NVMe
 
 Bandwidth - 1 Gbit/s-Port
 
-### ⭐️ Socials:
+<h2 align="center">Socials</h2>
 
 GitHub: https://github.com/klochenko
 
