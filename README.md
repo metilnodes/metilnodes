@@ -35,16 +35,9 @@ Validating and maintaining relayers on Cosmos ecosystem.
         </tr>
     </tbody>
 </table>
+<br>
 
-
-Solana: https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw
-
-
-Forta: https://app.forta.network/scan-node/0x211bf823b9aa19255aeec0452910775bc84696e1
-
-Idep: https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv
-
-### ⭐️ My current Testnet validators
+<h2 align="center">My current Testnet validators</h2>
 
 Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 
