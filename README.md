@@ -35,12 +35,12 @@ Validating and maintaining relayers on Cosmos ecosystem.
         </tr>
     </tbody>
 </table>
-<br>
 
 <h2 align="center">My current Testnet validators</h2>
 
 Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
 
+<br>
 ### ⭐️ Hardware:
 #### #1 Server:
 Location - OVHCloud, Strasbourg (SBG3) - France
