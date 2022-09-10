@@ -63,7 +63,6 @@ Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
             <a href="№" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
             </td>
-                       
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
