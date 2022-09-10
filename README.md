@@ -1,4 +1,4 @@
-<h3 align="center">VALIDATOR PROFILE INTRODUCTION</h3>
+<h3 align="center">VALIDATOR PROFILE</h3>
 
 <h1 align="center">metil</h1>
 <p align="center">Your trusted validator</p>
