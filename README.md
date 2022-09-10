@@ -118,4 +118,4 @@ GitHub: https://github.com/klochenko
 
 Twitter: https://twitter.com/olegmihalich
 
-Discord: metil#9407
+Discord: <a href="https://discordapp.com/users/541066012305653760/" target="_blank" rel="noopener noreferrer">metil#9407</a>
