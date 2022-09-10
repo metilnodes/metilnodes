@@ -28,6 +28,11 @@ Validating and maintaining relayers on Cosmos ecosystem.
             <a href="https://app.forta.network/scan-node/0x211bf823b9aa19255aeec0452910775bc84696e1" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/forta.jpg">
             </td>
+             <td width="130px" align="center">
+            <span><strong>Stride</strong></span><br><br />
+            <a href="https://stride.explorers.guru/validator/stridevaloper1ylwlnhkn7xrf5xha4ahm72zgqkw35v6q564mrf" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/stride.png">
+            </td>
             <td width="130px" align="center">
             <span><strong>Idep</strong></span><br><br />
             <a href="https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv" target="_blank" rel="noopener noreferrer">
@@ -58,11 +63,7 @@ Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
             <a href="№" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/haqq.png">
             </td>
-                        <td width="130px" align="center">
-            <span><strong>Stride</strong></span><br><br />
-            <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/stride.png">
-            </td>
+                       
             <td width="130px" align="center">
             <span><strong>Sei</strong></span><br><br />
             <a href="#" target="_blank" rel="noopener noreferrer">
