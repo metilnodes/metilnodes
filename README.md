@@ -20,7 +20,7 @@ Validating and maintaining relayers on Cosmos ecosystem.
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Solana</strong></span><br><br />
-            <a href="https://app.forta.network/scan-node/0x211bf823b9aa19255aeec0452910775bc84696e1" target="_blank" rel="noopener noreferrer">
+            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
             </td>
             <td width="130px" align="center">
@@ -50,7 +50,7 @@ Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Solana</strong></span><br><br />
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
             </td>
                 <td width="130px" align="center">
