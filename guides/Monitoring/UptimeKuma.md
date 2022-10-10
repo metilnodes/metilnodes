@@ -48,12 +48,20 @@ sudo pm2 start server/server.js --name uptime-kuma
 
 <img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/1.png" width="400" alt="" />
 
-<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/2.png" width="400" alt="" />
 
 ### Check your actual IP and port
 
-<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/3.png" width="400" alt="" />
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/2.png" width="400" alt="" />
+
+After success setup u will see:
 
 <img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/4.png" width="400" alt="" />
 
+### Next - you need setup notifications in Telegram
+
 <img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/5.png" width="400" alt="" />
+
+You can get a token from https://t.me/BotFather
+You can get Chat ID from https://t.me/userinfobot
+
+After fill form - start your created bot and click Test and Save 
