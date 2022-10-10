@@ -33,8 +33,10 @@ sudo npm install pm2 -g && sudo pm2 install pm2-logrotate
 
 ### Start Server
 
-> cd $HOME/uptime-kuma
+```
+cd $HOME/uptime-kuma
 sudo pm2 start server/server.js --name uptime-kuma
+```
 
 ### Browse to http://localhost:3001 after starting.
 
