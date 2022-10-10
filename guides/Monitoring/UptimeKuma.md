@@ -41,3 +41,5 @@ sudo pm2 start server/server.js --name uptime-kuma
 ### Browse to http://localhost:3001 after starting.
 
 > http://Your_Server_IP:3001
+
+## Setup Monitoring
