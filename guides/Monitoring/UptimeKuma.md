@@ -24,14 +24,14 @@ cd uptime-kuma
 npm run setup
 ```
 
-### Install PM2 if you don't have it:
+### Install PM2:
 
 ```
 cd $HOME
 sudo npm install pm2 -g && sudo pm2 install pm2-logrotate
 ```
 
-### Start Server
+### Start server.js
 
 ```
 cd $HOME/uptime-kuma
@@ -43,3 +43,17 @@ sudo pm2 start server/server.js --name uptime-kuma
 > http://Your_Server_IP:3001
 
 ## Setup Monitoring
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/0.png" width="400" alt="" />
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/1.png" width="400" alt="" />
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/2.png" width="400" alt="" />
+
+### Check your actual IP and port
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/3.png" width="400" alt="" />
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/4.png" width="400" alt="" />
+
+<img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/5.png" width="400" alt="" />
