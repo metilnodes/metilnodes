@@ -61,7 +61,7 @@ After success setup u will see:
 
 <img src="https://github.com/klochenko/klochenko/blob/main/guides/Monitoring/screens/5.png" width="400" alt="" />
 
-You can get a token from https://t.me/BotFather
+You can get a Bot token from https://t.me/BotFather
  | You can get Chat ID from https://t.me/userinfobot
 
 After fill form - start your created bot and click Test and Save 
