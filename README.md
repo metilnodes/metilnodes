@@ -7,7 +7,7 @@
 
 I am an individual validator, blockchain enthusiast and NFTs collector.
 
-I have more than 2 years of experience in running nodes on various Mainnets and Testnets.
+I have more than 3 years of experience in running nodes on various Mainnets and Testnets.
 
 Validating and maintaining relayers on Cosmos ecosystem.
 
