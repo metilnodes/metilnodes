@@ -84,9 +84,9 @@ Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
             <img height="40px" src="#">
             </td>
                            <td width="130px" align="center">
-            <span><strong>Aleo</strong></span><br><br />
-            <a href="#" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="#">
+            <span><strong>Mantra</strong></span><br><br />
+            <a href="https://explorer.hongbai.mantrachain.io/mantrachain/validators/mantravaloper19qzg874rh5naszaea67w8m4zpzr48crevev2dn" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/mantra.png?raw=true">
             </td>
         </tr>
     </tbody>
