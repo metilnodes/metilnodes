@@ -34,9 +34,9 @@ Validating and maintaining relayers on Cosmos ecosystem.
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/stride.png">
             </td>
             <td width="130px" align="center">
-            <span><strong>Idep</strong></span><br><br />
-            <a href="https://atomscan.com/idep/validators/idepvaloper1qnshchnpvtcx9uu3fytce25lk7qyxqklgym5sv" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/Idep.jpg">
+            <span><strong>Uptick</strong></span><br><br />
+            <a href="https://uptick.explorers.guru/validator/uptickvaloper1sr374tf8uh96lfgatyc6lefr24vg5dxhsqvsq9" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/uptick.jpg">
             </td>
         </tr>
     </tbody>
