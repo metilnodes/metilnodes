@@ -49,7 +49,7 @@ Validating and maintaining relayers on Cosmos ecosystem.
 
 <h2 align="center">My current and previous Testnet validators</h2>
 
-Solana, Territori, Haqq, Stride, Sei, Starknet, Massa, Ironfish, Aleo
+
 <table width="350px" align="center">
     <tbody>
         <tr valign="top">
