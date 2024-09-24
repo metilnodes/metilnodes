@@ -18,11 +18,7 @@ Validating and maintaining relayers on Cosmos ecosystem.
 <table width="350px" align="center">
     <tbody>
         <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Solana</strong></span><br><br />
-            <a href="https://solana.org/sfdp-validators/3fiZs7R4LfPCPnGuKRWAjTgAZ8t5crPTCGtfku7fPPCw" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/solanaLogoMark.png">
-            </td>
+            
             <td width="130px" align="center">
             <span><strong>Forta</strong></span><br><br />
             <a href="https://app.forta.network/scan-node/0x0803ea1b3ee2f2f46e078d47090fb205f26bd2f6" target="_blank" rel="noopener noreferrer">
