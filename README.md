@@ -13,7 +13,7 @@ Validating and maintaining relayers on Cosmos ecosystem.
 
 24hr Management and Monitoring! (including Grafana and Telegram alerts).
 
-<h2 align="center">My current Mainnet validators</h2>
+<h2 align="center">My current Mainnet </h2>
 
 <table width="350px" align="center">
     <tbody>
