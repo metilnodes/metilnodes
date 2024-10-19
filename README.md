@@ -33,6 +33,11 @@ Validating and maintaining relayers on Cosmos ecosystem.
             <a href="https://uptick.explorers.guru/validator/uptickvaloper1sr374tf8uh96lfgatyc6lefr24vg5dxhsqvsq9" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/uptick.jpg">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Juno</strong></span><br><br />
+            <a href="https://www.mintscan.io/juno/validators/junovaloper1x3g7eljx3yvg5gqt3hyf6km94r5j7gftfvcrh3" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/juno.jpg">
+            </td>
         </tr>
     </tbody>
 </table>
