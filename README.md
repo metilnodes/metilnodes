@@ -83,6 +83,11 @@ Validating and maintaining relayers on Cosmos ecosystem.
             <a href="https://explorer.hongbai.mantrachain.io/mantrachain/validators/mantravaloper19qzg874rh5naszaea67w8m4zpzr48crevev2dn" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/klochenko/klochenko/blob/main/logo/mantra.png?raw=true">
             </td>
+                           <td width="150px" align="center">
+            <span><strong>Story (active)</strong></span><br><br />
+            <a href="https://testnet.storyscan.app/validators/storyvaloper1sp0u3967vczunl25sxh8ftk7hrex8qe74czqks" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://raw.githubusercontent.com/metilnodes/metilnodes/6f64189c10d51b485a56e109af610f66e5ba22e4/logo/story.jpg?raw=true">
+            </td>                
         </tr>
     </tbody>
 </table>
